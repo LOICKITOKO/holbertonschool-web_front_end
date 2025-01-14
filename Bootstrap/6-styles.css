@@ -1,0 +1,50 @@
+/* Set custom background color for .btn-primary and its hover/focus/active states */
+.btn-primary {
+    background-color: #E0003C;
+    border-color: #E0003C;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    background-color: #BC1340;
+    border-color: #BC1340;
+}
+
+/* Set custom text and border color for .btn-outline-primary */
+.btn-outline-primary {
+    color: #E0003C;
+    border-color: #E0003C;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus,
+.btn-outline-primary:active {
+    color: #E0003C;
+    background-color: transparent;
+    border-color: #E0003C;
+}
+
+/* Set text color for all <a> links */
+a {
+    color: #E0003C;
+}
+
+a:hover,
+a:focus {
+    color: #E0003C;
+    text-decoration: none;
+}
+
+/* Set custom border color and radius for .card, .card-header, and .card-footer */
+.card,
+.card-header,
+.card-footer {
+    border-color: #E0003C;
+    border-radius: 1rem;
+}
+
+/* Set custom text color for .text-muted */
+.text-muted {
+    color: #8C8C8C;
+}
