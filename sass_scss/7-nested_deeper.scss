@@ -1,0 +1,13 @@
+/* This Sass file sets font sizes with nested rules inside body */
+
+body {
+  font-size: 14px;
+
+  h1 {
+    font-size: 16px;
+
+    &.smaller {
+      font-size: 12px;
+    }
+  }
+}

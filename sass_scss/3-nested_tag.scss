@@ -1,0 +1,10 @@
+/* This Sass file removes margin and padding from body, and adds margin to p inside body */
+
+body {
+  margin: 0px;
+  padding: 0px;
+
+  p {
+    margin: 10px;
+  }
+}

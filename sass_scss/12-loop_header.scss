@@ -1,0 +1,7 @@
+/* This Sass file uses a @for loop to generate header font sizes */
+
+@for $i from 1 through 5 {
+  h#{$i} {
+    font-size: #{$i}px;
+  }
+}

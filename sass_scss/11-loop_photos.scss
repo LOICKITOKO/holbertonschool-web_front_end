@@ -1,0 +1,9 @@
+/* This Sass file loops over names and generates photo classes */
+
+@import '11-photos';
+
+@each $name in $list-names {
+  .photo-#{$name} {
+    background: image-url("photos/#{$name}.jpg") no-repeat;
+  }
+}

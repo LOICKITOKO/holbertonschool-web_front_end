@@ -1,0 +1,9 @@
+/* This Sass file sets default and .red text colors inside body using nested rules */
+
+body {
+  color: #3D3D3D;
+
+  .red {
+    color: #FF0000;
+  }
+}

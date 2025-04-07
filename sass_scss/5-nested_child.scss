@@ -1,0 +1,9 @@
+/* This Sass file sets text color inside body and for its direct .red children */
+
+body {
+  color: #3D3D3D;
+
+  > .red {
+    color: #FF0000;
+  }
+}

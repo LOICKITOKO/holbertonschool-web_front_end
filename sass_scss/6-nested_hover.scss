@@ -1,0 +1,9 @@
+/* This Sass file sets button text color and hover color using nested rules */
+
+button {
+  color: #FF0000;
+
+  &:hover {
+    color: #00FF00;
+  }
+}
