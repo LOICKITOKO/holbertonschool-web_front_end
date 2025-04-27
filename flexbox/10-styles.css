@@ -1,19 +1,10 @@
-/* Section HERO section */
-.section-hero {
-  position: relative;
-  margin-top: -8.5rem;
-}
+/* Section HERO ============================= */
 
 .hero-homepage {
-  background-size: 150rem 100rem;
+  background-color: #yourColorHere; /* Ajoute la couleur de fond désirée */
   background-position: 50% 0;
+  background-repeat: no-repeat; /* Ajoute la règle background-repeat */
+  background-size: 150rem 100rem;
 }
 
-.section-hero .section-body {
-  padding: 10rem 4rem;
-}
-
-.section-hero .section-category {
-  color: var(--color-white);
-  text-transform: uppercase;
-}
+/* Ajoute d'autres styles si nécessaire */

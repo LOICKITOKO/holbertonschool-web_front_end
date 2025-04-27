@@ -1,8 +1,9 @@
-.row {
-  display: flex;
-}
-
 /* Section SERVICES ============================= */
 .section-services .row {
+  display: flex;
   flex-wrap: wrap;
+}
+.section-services .col-1-2 {
+  width: calc(50% - 1rem);
+  margin: 0.5rem;
 }

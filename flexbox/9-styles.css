@@ -1,4 +1,10 @@
-/* Section ABOUT US */
+/* Section SERVICES ============================= */
+
+/* Ajoute ici les styles pour la section SERVICES */
+
+/* Section ABOUT US ============================= */
 .section-about-us [class^="col-"] {
   align-self: center;
 }
+
+/* Ajoute ici d'autres styles pour la section ABOUT US si nécessaire */
