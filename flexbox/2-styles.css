@@ -1,0 +1,12 @@
+.row {
+  display: flex;
+}
+
+/* Section Latest news ============================= */
+.section-latest-news .row {
+  flex-direction: row-reverse;
+}
+
+[class*='col-'] {
+  width: 100%;
+}

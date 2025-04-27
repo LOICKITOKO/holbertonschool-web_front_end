@@ -1,0 +1,13 @@
+.post-meta-list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.post-meta-tag ul {
+  list-style: none;
+}
+
+.post-meta-tag a {
+  margin-right: 1rem;
+}

@@ -1,0 +1,13 @@
+/* Variables */
+/* ... (variables éventuelles ici) */
+
+/* Grid */
+.row {
+  display: flex;
+}
+
+[class*='col-'] {
+  width: 100%;
+}
+
+/* Suppression du float: left et row::after comme demandé */

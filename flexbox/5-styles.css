@@ -1,0 +1,23 @@
+/* Header section */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Supprimer les anciennes règles pour .header-logo et .navbar-menu */
+.header-logo {
+  /* empty now */
+}
+
+.header-logo a {
+  /* empty now */
+}
+
+.navbar-menu {
+  /* empty now */
+}
+
+/* Variables à supprimer */
+:root {
+  /* header-logo-position, header-logo-link-display, etc. */
+}

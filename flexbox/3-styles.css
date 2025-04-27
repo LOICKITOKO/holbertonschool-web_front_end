@@ -1,0 +1,8 @@
+.row {
+  display: flex;
+}
+
+/* Section SERVICES ============================= */
+.section-services .row {
+  flex-wrap: wrap;
+}

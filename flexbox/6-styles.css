@@ -1,0 +1,16 @@
+/* Navbar section */
+.navbar-menu {
+  display: flex;
+}
+
+.nav .nav-item {
+  margin-right: 2rem;
+}
+
+.nav-item + .nav-item {
+  margin-left: 2rem;
+}
+
+:root {
+  --nav-item-margin: 0 0 0 2rem;
+}
